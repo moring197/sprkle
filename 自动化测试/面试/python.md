@@ -36,6 +36,8 @@ l=list(str)
 
 4.self的含义
 
+self指的是类示例对象本身（不是类本身），self只有在类的方法中才会有，python中self不是关键字，约定成俗为self
+
 5.break,continue,pass区别
 
 break跳出本层循环，不再执行
